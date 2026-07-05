@@ -1,19 +1,32 @@
 PRINCIPAL'S REPORT
 
+Title:
+Student Performance Analysis Report
+
 Executive Summary
 
-The student performance dataset was analyzed to identify factors affecting academic achievement. The analysis found that parental education level and completion of the test preparation course have a positive impact on student performance. Strong positive correlations were observed among Math, Reading, and Writing scores.
+The student performance dataset was analyzed to understand the factors that influence academic achievement. The analysis focused on parental education, test preparation, gender-wise performance, subject correlations, and identifying at-risk students. The findings provide valuable insights that can help the school improve student outcomes through targeted academic support and better educational planning.
 
 Key Findings
 
-1. Students whose parents have higher education generally achieve higher scores.
-2. Students who completed the test preparation course scored higher in all three subjects.
-3. Reading and Writing scores have a very strong positive correlation.
-4. Female students performed better in Reading and Writing, while male students performed slightly better in Mathematics.
-5. Students scoring below 50 in any subject were identified as at-risk.
+1. Students whose parents have higher education levels generally achieved better scores across Mathematics, Reading, and Writing.
+
+2. Students who completed the test preparation course consistently performed better than students who did not complete the course.
+
+3. Reading and Writing scores have a very strong positive correlation, indicating that students who perform well in one language subject usually perform well in the other.
+
+4. Female students performed better in Reading and Writing, while male students showed slightly better performance in Mathematics.
+
+5. Students scoring below 50 in one or more subjects were identified as at-risk and require additional academic support.
 
 Recommendations
 
-1. Encourage all students to complete the test preparation course before examinations.
-2. Provide additional academic support and mentoring for at-risk students.
-3. Conduct parent awareness programs to increase family involvement in students' education.
+1. Make the test preparation program available to all students and encourage participation before examinations.
+
+2. Provide extra coaching, mentoring, and remedial classes for at-risk students to improve their academic performance.
+
+3. Increase parental involvement by organizing workshops and regular progress meetings to support students' learning at home.
+
+Conclusion
+
+The analysis shows that academic performance is influenced by several educational and social factors. By implementing targeted interventions, encouraging test preparation, and supporting students who are academically at risk, the school can significantly improve overall student performance and learning outcomes.
