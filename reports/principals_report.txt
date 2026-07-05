@@ -1,0 +1,19 @@
+PRINCIPAL'S REPORT
+
+Executive Summary
+
+The student performance dataset was analyzed to identify factors affecting academic achievement. The analysis found that parental education level and completion of the test preparation course have a positive impact on student performance. Strong positive correlations were observed among Math, Reading, and Writing scores.
+
+Key Findings
+
+1. Students whose parents have higher education generally achieve higher scores.
+2. Students who completed the test preparation course scored higher in all three subjects.
+3. Reading and Writing scores have a very strong positive correlation.
+4. Female students performed better in Reading and Writing, while male students performed slightly better in Mathematics.
+5. Students scoring below 50 in any subject were identified as at-risk.
+
+Recommendations
+
+1. Encourage all students to complete the test preparation course before examinations.
+2. Provide additional academic support and mentoring for at-risk students.
+3. Conduct parent awareness programs to increase family involvement in students' education.
